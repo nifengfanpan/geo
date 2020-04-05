@@ -1,5 +1,5 @@
 {
-    "name": "leitom/geo",
+    "name": "leitom_7/geo",
     "description": "A package that leverage redis geospatial functionality for super fast searching and integrates beautifully with Laravel.",
     "keywords": [
         "leitom",
